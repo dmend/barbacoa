@@ -7,5 +7,7 @@ module = "barbacoa"
 author = "Daniel Wallace"
 author-email = "daniel@gtmanfred.com"
 home-page = "https://github.com/SADevs/barbacoa"
-classifiers = ["License :: OSI Approved :: Apache Software License"]
-
+classifiers = [
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3.7"
+]
